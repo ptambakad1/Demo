@@ -1,0 +1,8 @@
+Class Test
+{
+int a, b, c;
+a=10;'
+b=10;
+c=a+b
+system.out.println(c);
+}
